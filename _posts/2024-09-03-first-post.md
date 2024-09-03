@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post
+title: First Post
 ---
 
 Dear Collectors,
