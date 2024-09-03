@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 ---
 
 {{ content }}
 
-<h2>{{ page.list_title | default: "Posts" }}</h2>
+<h2>{{ page.list_title | default: "Articles" }}</h2>
 <div>
   <ul>
     {% assign page_category = page.categories | first %}
