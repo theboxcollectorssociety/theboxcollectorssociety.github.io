@@ -1,10 +1,10 @@
 ---
 layout: post
-title: First Post
+title: First Letter
 categories: letters
 ---
 
-Dear Collectors,
+Dear Box Collectors,
 
 After doing some research, I am excited to share my new site with you all on GitHub Pages.
 \
@@ -24,5 +24,6 @@ As it is only the beginning, I hope you stick around, because I have a lot of fu
 
 xoxo,
 Hannah
+they/them/theirs
 
 
