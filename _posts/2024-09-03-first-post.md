@@ -3,8 +3,6 @@ layout: post
 title: Post
 ---
 
-## September 3, 2024
-
 Dear Collectors,
 
 After doing some research, I am excited to share my new site with you all on GitHub Pages.
