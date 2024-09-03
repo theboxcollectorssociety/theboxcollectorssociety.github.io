@@ -1,8 +1,5 @@
 collections:
   authors:
-  allPosts:
-    output: true
-    permalink: /:collection/:categories:output_ext
   letters:
   articles:
 

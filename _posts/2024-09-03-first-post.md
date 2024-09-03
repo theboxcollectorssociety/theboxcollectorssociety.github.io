@@ -1,5 +1,5 @@
 ---
-layout: allPosts
+layout: post
 title: First Post
 categories: letters
 ---
