@@ -1,5 +1,8 @@
 collections:
   authors:
+  allPosts:
+  letters:
+  articles:
 
 plugins:
   - jekyll-feed
