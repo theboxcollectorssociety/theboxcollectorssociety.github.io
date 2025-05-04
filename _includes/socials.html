@@ -1,6 +1,6 @@
 <nav class="nav">
   {% for item in site.data.socials %}
-  <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+  <a href="{{ item.link }}" {% if page.url == item.link %}style="font-weight: bold;"{% endif %}>
     {{ item.name }}
   </a>
   {% endfor %}
