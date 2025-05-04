@@ -1,15 +1,16 @@
 <!doctype html>
-<html>
+<html lang="en-us">
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/_assets/_css/styles.css">
     <link rel="stylesheet" href="/_assets/_css/generalstyle.css">
     {% feed_meta %}
-<!--    {% seo %}-->
+
 </head>
 <body>
-{% include navigation.html include socials.html %}
+{% include navigation.html %}
+{% include socials.html %}
 {{ content }}
 </body>
 </html>
