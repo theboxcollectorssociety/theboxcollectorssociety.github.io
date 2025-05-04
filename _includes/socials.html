@@ -1,4 +1,4 @@
-<nav>
+<nav class="nav">
   {% for item in site.data.socials %}
   <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
     {{ item.name }}
