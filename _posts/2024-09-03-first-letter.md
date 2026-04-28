@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Letter
+title: Moving to GitHub Pages
 categories: [letters]
 ---
 
@@ -15,6 +15,9 @@ that I share in my newsletters. It will also be a space for me to share fundrais
 
 **In the future**, I hope to host regular, free, guided **makers meetups** with a focus on accessibility.
 As it is only the beginning, I hope you stick around, because I have a lot of fun stuff I want to do together.
+
+
+As always, thanks for reading.
 
 
 xoxo,
