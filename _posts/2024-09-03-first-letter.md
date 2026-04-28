@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Letter
-categories: letters
+categories: [letters]
 ---
 
 Dear Box Collectors,

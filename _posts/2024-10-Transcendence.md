@@ -1,7 +1,7 @@
 ---
 layout: post
 title: October 2024
-categories: letters
+categories: [letters]
 ---
 
 Dear Box Collectors,
