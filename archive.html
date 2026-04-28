@@ -6,8 +6,8 @@ title: Archive
 
 <ul>
   {% for cat in site.categories %}
-  <h3> {{ cat[0] | capitalize}} </h3>
-    {% for post in cat[1]%}
+  <h3> {{ cat | capitalize}} </h3>
+    {% for post in cat %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
