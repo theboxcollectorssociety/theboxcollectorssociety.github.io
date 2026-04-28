@@ -1,7 +1,7 @@
 ---
 layout: post
-title: May 2023
-categories: letters
+title: May 2023 Newsletter
+categories: [letters]
 ---
 
 Dear Box Collectors,
@@ -15,6 +15,9 @@ Updates to come, but first healing.
 
 As always, thanks for reading.
 
-xoxo,\
-Hannah\
+
+xoxo,
+
+Hannah
+
 they/them/theirs
